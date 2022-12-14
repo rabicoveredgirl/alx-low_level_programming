@@ -1,1 +1,1 @@
-to generate assembly code
+creating an executable
