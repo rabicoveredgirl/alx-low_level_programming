@@ -1,9 +1,9 @@
 #include<stdio.h>
-int main()
+int main(void)
 
 {
 	/* string initialization*/
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art, ");
 
 	return (0);
 
