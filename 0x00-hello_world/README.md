@@ -1,1 +1,1 @@
-To compile C file
+to preprocess a file
