@@ -1,1 +1,1 @@
-to output a statement
+to output text using printf
