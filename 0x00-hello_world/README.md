@@ -1,1 +1,1 @@
-to preprocess a file
+to generate assembly code
