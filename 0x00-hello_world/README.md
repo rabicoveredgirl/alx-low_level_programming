@@ -1,1 +1,1 @@
-creating an executable
+to output a statement
