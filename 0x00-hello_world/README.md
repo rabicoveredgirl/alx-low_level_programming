@@ -1,1 +1,1 @@
-to output text using printf
+sizes of various datatypes
