@@ -1,2 +1,8 @@
 #!/bin/bash
-int puts(const char* "Programming is like building a multilingual puzzle")
+#include<stdio.h>
+int main ()
+{
+    char mystr[] = "Programming is like building a multilingual puzzle";
+    puts(mystr);
+    return 0;
+}
