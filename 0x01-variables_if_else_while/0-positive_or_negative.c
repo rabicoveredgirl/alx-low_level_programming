@@ -6,7 +6,7 @@
 
 
 
-/* betty style doc for function main goes there */
+/* to check if a given number is positive, zero or negative */
 
 int main(void)
 
@@ -35,8 +35,6 @@ int main(void)
 		printf("is negative\n");
 	
 	}
-
-
 
 	return (0);
 
